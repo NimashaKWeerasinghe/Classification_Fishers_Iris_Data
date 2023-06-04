@@ -1,0 +1,2 @@
+# Classification_Fishers_Iris_Data
+The classification model classifying Fisher’s Iris Data using a neural network is done. Data preparation was done with fisheriris.mat dataset and shuffled the dataset randomly by selecting 60% for traning purpose and 40% for testing purpose. The implementation was completed with defining the number of neurons of the neural network using iteration(5, 10, 15, 20) and for each neural network setting repeat the process 10 times.  
