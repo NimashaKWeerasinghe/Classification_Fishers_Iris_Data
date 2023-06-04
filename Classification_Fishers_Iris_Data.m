@@ -1,6 +1,3 @@
-% Plymouth ID - 10749974
-% Plymouth Username - Matharage Weerasinghe 
-
 load fisheriris.mat; % Load dataset
 
 species = grp2idx(species); % Creates index vector 
